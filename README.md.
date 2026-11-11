@@ -1,0 +1,24 @@
+# AWS Technical Presentations
+
+A collection of my AWS technical presentations, practical demonstrations, and cloud learning resources.
+
+## Presentations
+
+### My Bedrock Script Worked as Admin. Then I Took the Permissions Away.
+
+A practical demonstration of AWS IAM least-privilege principles using Amazon Bedrock and Terraform.
+
+**Topics covered:**
+- IAM roles and policies
+- Least-privilege access
+- Amazon Bedrock permissions
+- Terraform infrastructure as code
+- Testing access restrictions
+
+**Related project:** [Terraform Bedrock IAM](https://github.com/Bobo-ops01/terraform-bedrock-iam)
+
+## About
+
+I use this repository to share practical AWS knowledge and document my cloud engineering journey.
+
+More presentations and learning resources will be added as I continue building.
